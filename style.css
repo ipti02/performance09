@@ -1,0 +1,20 @@
+
+/*this is baic code*/
+
+
+h1{
+    border-style: none none none solid;
+    border-bottom: 10px dashed rgb(109, 228, 40);
+    border-width: 10px;
+    border-color: rgb(29, 222, 157);
+}
+
+
+.class1 p{
+    background: fixed #b3abef
+     url(download.png) no-repeat
+     200px 200px;
+}
+.class2 p{
+    color: rgb(106, 26, 181);
+}
